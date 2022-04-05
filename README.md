@@ -29,4 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##To run the project : 
 1. install nodejs on your pc
 2. go to this project directory -> open terminal/cmd -> type: "npm install @angular/client"
+3. execute -> "npm install"
 3. then run the project by executing this command on terminal/cmd -> "ng serve"
