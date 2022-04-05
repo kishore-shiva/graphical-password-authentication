@@ -1,0 +1,13 @@
+.inputField{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
+    color: blue!important;
+}
+
+.login{
+    margin-left: 20px;
+    margin-top: 20px;
+}
